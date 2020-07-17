@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<users>
+    <user>
+        <id>1</id>
+        <username>admin</username>
+        <password>Hack me if you can</password>
+    </user>
+    <user>
+        <id>2</id>
+        <username>system of a down</username>
+        <password>B.Y.O.B</password>
+    </user>
+    <user>
+        <id>3</id>
+        <username>homer simpson</username>
+        <password>1234</password>
+    </user>
+</users>

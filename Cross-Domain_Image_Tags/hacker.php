@@ -1,0 +1,1 @@
+<img src="original.php?text=hacked">
